@@ -1,7 +1,7 @@
 # InCode--Projeto-Final
 Projeto Final do InCode 2023.1
 
-**Projeto de Desenvolvimento de Fórum Online**
+**Projeto Conecta Culture: SLZ**
 
 Este é um projeto de desenvolvimento de um fórum online utilizando HTML, CSS e JavaScript. O objetivo do projeto é criar uma plataforma onde os usuários possam compartilhar reviews de locais/ambientes frequentados em São Luís, além disso o usuário também pode acessar as abas de seções para saber mais da capital maranhense.
 
